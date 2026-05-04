@@ -77,6 +77,17 @@ http://localhost:8501
 
 ![alt text](image-1.png)
 ```
+---
+
+## 📁 Dataset
+
+Dataset used from Kaggle:
+
+👉 [https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
+
+⚠️ Not included in repository due to size.
+
+---
 
 ### Features:
 

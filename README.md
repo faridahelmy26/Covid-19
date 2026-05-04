@@ -41,13 +41,12 @@ The model is built using **Transfer Learning (VGG16)** and deployed in two ways:
 
 **URL:**
 
-```
+
 https://covid-19-production-6f9b.up.railway.app/docs
 
 <img width="1907" height="950" alt="image" src="https://github.com/user-attachments/assets/d4d52cb7-d969-467a-b6cb-b0ff6195219d" />
 
 
-```
 
 **Endpoint:**
 
@@ -74,12 +73,12 @@ POST /predict
 
 **URL:**
 
-```
+
 http://localhost:8501
 
 <img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/1bde84c4-57be-4996-92a5-8a0a77ff4015" />
 
-```
+
 ---
 
 ## 📁 Dataset

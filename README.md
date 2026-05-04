@@ -44,7 +44,8 @@ The model is built using **Transfer Learning (VGG16)** and deployed in two ways:
 ```
 http://127.0.0.1:8000/docs
 
-![alt text](image.png)
+<img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/e766adba-e49c-4b4b-bf15-858d920061a5" />
+
 ```
 
 **Endpoint:**
@@ -75,7 +76,8 @@ POST /predict
 ```
 http://localhost:8501
 
-![alt text](image-1.png)
+<img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/1bde84c4-57be-4996-92a5-8a0a77ff4015" />
+
 ```
 ---
 

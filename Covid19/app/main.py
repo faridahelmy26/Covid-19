@@ -2,7 +2,10 @@ from fastapi import FastAPI, File, UploadFile
 import shutil
 import os
 
-from app.model.loader import load_trained_model
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from loader import load_trained_model
 from app.utils.preprocess import preprocess_image
 from app.utils.predict import predict_image
 

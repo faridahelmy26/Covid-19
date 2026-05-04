@@ -37,14 +37,15 @@ The model is built using **Transfer Learning (VGG16)** and deployed in two ways:
 
 ---
 
-## 📡 API Endpoint (FastAPI)
+## 📡 Live Demo
 
 **URL:**
 
 ```
-http://127.0.0.1:8000/docs
+https://covid-19-production-6f9b.up.railway.app/docs
 
-<img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/e766adba-e49c-4b4b-bf15-858d920061a5" />
+<img width="1907" height="950" alt="image" src="https://github.com/user-attachments/assets/d4d52cb7-d969-467a-b6cb-b0ff6195219d" />
+
 
 ```
 
